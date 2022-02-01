@@ -1,0 +1,38 @@
+img{
+    border: 2px solid #021E8F;
+}
+
+body{
+    font-family: 'Kavivanar', cursive;
+    background-color: #fffafa;
+    font-size: large;
+}
+
+.row{
+    margin: 5%;
+}
+
+h1{
+    text-align: center;
+}
+
+#textboxid
+{
+    height:150px;
+    width: 250px;
+    font-size:14pt;
+}
+
+.form{
+    background-color:#021E8F ;
+    text-align: center;
+    color: white;
+    margin-top: 5%;
+    border-radius: 2%;
+    border: 2px solid #aeaeb4;
+    padding: -200px;
+}
+
+.logo{
+    height: 70px;
+}
