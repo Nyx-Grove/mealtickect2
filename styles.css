@@ -1,0 +1,41 @@
+.jumbotron{
+    text-align: center;
+     margin-left: 5%;
+     background-color: rgba(0,0,0,0.2);
+     margin-right: 5%;
+ }
+ 
+ .content{
+     text-align: center;
+    
+ }
+ 
+ img{
+     border: 2px solid #021E8F;
+     height: 200px;
+ }
+ 
+ body{
+     font-family: 'Kavivanar', cursive;
+     background-color:#fffafa ;
+     font-size: large;
+ }
+ 
+ .row{
+     margin: 5%;
+ }
+ .right{
+     text-align: center;
+     margin-left: 4%;
+ }
+ 
+ .jumbopic{
+     border: white;
+     
+     width: 150px;
+ }
+ 
+ .logo{
+     height: 70px;
+ }
+ 
